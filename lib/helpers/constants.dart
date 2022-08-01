@@ -1,0 +1,1 @@
+String profileTxt = """The Monthly Dev is a series of online events brought to you with love by daily.dev. It's a place for software engineers to gather and hear world-class talks, once a month. """;
